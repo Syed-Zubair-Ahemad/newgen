@@ -24,7 +24,6 @@ import {
   // carrent,
   threejs,
   // nikePro,
-  // nikeJS,
   worldHotel,
   // Pizzashop,
   // natours,
@@ -229,5 +228,3 @@ const projects = [
 ];
 
 export { services, technologies, experiences, testimonials, projects };
-// In the '../assets/index.js' file
-// export { mobile, backend, creator, web };
